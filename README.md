@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.canva.com/design/DAGTCoR8DKg/jIBVABBvNQb8lKqWIJOLIA/edit?utm_content=DAGTCoR8DKg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="blank"><img src="https://www.canva.com/design/DAGTCoR8DKg/jIBVABBvNQb8lKqWIJOLIA/edit?utm_content=DAGTCoR8DKg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="120" alt="Glamping Logo" /></a>
+  <a href="https://www.canva.com/design/DAGTCoR8DKg/hstXjChpgRW7VTStKWy3ug/view?utm_content=DAGTCoR8DKg&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="blank"><img src=https://www.canva.com/design/DAGTCoR8DKg/hstXjChpgRW7VTStKWy3ug/view?utm_content=DAGTCoR8DKg&utm_campaign=designshare&utm_medium=link&utm_source=editor" width="120" alt="Glamping Logo" /></a>
 </p>
 
 [circleci-image]: https://img.shields.io/circleci/build/github/tu-usuario/tu-repo/master?token=abc123def456
