@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://fuchsia-secret-catfish-820.mypinata.cloud/ipfs/QmeWKvuURK2FPWQZ5sCqNyvjvAYjCoHKdisNXju8vSuVew" target="blank"><img src="https://fuchsia-secret-catfish-820.mypinata.cloud/ipfs/QmeWKvuURK2FPWQZ5sCqNyvjvAYjCoHKdisNXju8vSuVew" width="120" alt="Glamping Logo" /></a>
+  <a href="https://fuchsia-secret-catfish-820.mypinata.cloud/ipfs/QmYicjW4aKeJcjQ5BXuTHzTh2eBQrbsAe4eExSxLih5jJY" target="blank"><img src="https://fuchsia-secret-catfish-820.mypinata.cloud/ipfs/QmYicjW4aKeJcjQ5BXuTHzTh2eBQrbsAe4eExSxLih5jJY" width="120" alt="Glamping Logo" /></a>
 </p>
 
 [circleci-image]: https://img.shields.io/circleci/build/github/tu-usuario/tu-repo/master?token=abc123def456
