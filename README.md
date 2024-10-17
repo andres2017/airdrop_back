@@ -17,7 +17,7 @@
   <a href="https://opencollective.com/tu-repo#sponsor" target="_blank"><img src="https://opencollective.com/tu-repo/sponsors/badge.svg" alt="Sponsors on Open Collective" /></a>
   <a href="https://paypal.me/tu-usuario" target="_blank"><img src="https://img.shields.io/badge/Donate-PayPal-ff3f59.svg" alt="Donate us"/></a>
   <a href="https://opencollective.com/tu-repo#sponsor" target="_blank"><img src="https://img.shields.io/badge/Support%20us-Open%20Collective-41B883.svg" alt="Support us"></a>
-  <a href="https://twitter.com/tu-usuario" target="_blank"><img src="https://img.shields.io/twitter/follow/tu-usuario.svg?style=social&label=Follow" alt="Follow us on Twitter"></a>
+  <a href="https://x.com/cyberandres" target="_blank"><img src="https://img.shields.io/twitter/follow/tu-usuario.svg?style=social&label=Follow" alt="Follow us on Twitter"></a>
 </p>
 
 ## Descripción
